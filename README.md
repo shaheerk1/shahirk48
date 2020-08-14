@@ -1,11 +1,9 @@
 ### Hi there, I'm Shahir Khan - aka [SK][website] 👋
 
 ## I'm a Freelancer, Blogger, Developer, and Student!
-<details>
 
   <img align="left" alt="SHAHEERK48's Github Stats" src="https://github-readme-stats.vercel.app/api?username=shaheerk48&show_icons=true&hide_border=true" />
 
-</details>
 ---
 
 - 🔭 I’m currently working on a [My blog][website]!
