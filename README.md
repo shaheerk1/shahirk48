@@ -5,6 +5,10 @@
   <img align="left" alt="SHAHEERK48's Github Stats" src="https://github-readme-stats.vercel.app/api?username=shaheerk48&show_icons=true&hide_border=true" />
 
 ---
+<br />
+
+---
+
 
 - 🔭 I’m currently working on a [My blog][website]!
 - 🌱 I’m currently learning Angular,React and some Bootstrap 🤣
