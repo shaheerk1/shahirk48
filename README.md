@@ -51,7 +51,7 @@
 <details>
   <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="SHAHEERK48's Github Stats" src="https://github-readme-stats.shaheerk48.vercel.app/api?username=shaheerk48&show_icons=true&hide_border=true" />
+  <img align="left" alt="SHAHEERK48's Github Stats" src="https://github-readme-stats.vercel.app/api?username=shaheerk48&show_icons=true&hide_border=true" />
 
 </details>
 
