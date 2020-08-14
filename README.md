@@ -60,3 +60,8 @@
 [youtube]: https://www.youtube.com/channel/UCZRSLRiYX0hQRrIRfwU2sDg
 [instagram]: https://instagram.com/codingcage
 [linkedin]: https://www.linkedin.com/in/shaheer-khan-02907315a
+[webdevplaylist]: https://linktr.ee/shahirk
+[jsplaylist]: https://linktr.ee/shahirk
+[cssplaylist]: https://linktr.ee/shahirk
+[reactplaylist]: https://linktr.ee/shahirk
+
