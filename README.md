@@ -1,4 +1,4 @@
-### Hi there, I'm Shahir Khan - aka [SK][website] 👋
+### Hi there, I'm Shahir Khan 
 
 ## I'm a Freelancer, Blogger, Developer, and Student!
 
