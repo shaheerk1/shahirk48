@@ -2,8 +2,6 @@
 
 ## I'm a Developer, and Student!
 
-  <img align="left" alt="SHAHEERK48's Github Stats" src="https://github-readme-stats.vercel.app/api?username=shaheerk48&show_icons=true&hide_border=true" />
-
 ---
 <br />
 
@@ -42,16 +40,6 @@
 <br />
 <br />
 
----
-
-
-### 📕 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [MY BLOG WILL BE UP SOON](https://linktr.ee/shahirk)
-<!-- BLOG-POST-LIST:END -->
-
-➡️ [more blog posts...](https://linktr.ee/shahirk)
 
 ---
 
