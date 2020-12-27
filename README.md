@@ -1,6 +1,6 @@
 ### Hi there, I'm Shahir Khan 
 
-## I'm a Freelancer, Blogger, Developer, and Student!
+## I'm a Developer, and Student!
 
   <img align="left" alt="SHAHEERK48's Github Stats" src="https://github-readme-stats.vercel.app/api?username=shaheerk48&show_icons=true&hide_border=true" />
 
@@ -10,10 +10,9 @@
 ---
 
 
-- 🔭 I’m currently working on a [My blog][website]!
-- 🌱 I’m currently learning Angular,React and some Bootstrap 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Getting a junior dev roll before dec-1
+- 🌱 I’m currently learning React and Node 🤣
+- 👯 I’m looking to collaborate with other Developers.
+- 🥅 Goals : Mastering the MERN stack
 - ⚡ Interested in : Designing & Digital Marketting
 
 ### Connect with me:
