@@ -9,8 +9,6 @@
 
 ---
 
-
-- 🌱 I’m currently learning React and Node 🤣
 - 👯 I’m looking to collaborate with other Developers.
 - 🥅 Goals : Mastering the MERN stack
 - ⚡ Interested in : Designing & Digital Marketting
