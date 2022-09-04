@@ -9,11 +9,14 @@
 
 ### Connect with me:
 
-[<img align="left" alt="https://linktr.ee/shahirk" width="22px" src="https://github.com/shahirk48/shahirk48/blob/master/raw/images/icons/internet.png" />][website]
-[<img align="left" alt="Shahir | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="Shahirk | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Shahirk | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Shahirk | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="internet" width="22px" src="https://github.com/shahirk48/shahirk48/blob/master/raw/images/icons/internet.png" />][website]
+[<img align="left" alt="YouTube" width="22px" src="https://github.com/shahirk48/shahirk48/blob/master/raw/images/icons/youtube.png" />][youtube]
+[<img align="left" alt="Twitter" width="22px" src="https://github.com/shahirk48/shahirk48/blob/master/raw/images/icons/twitter.png" />][twitter]
+[<img align="left" alt="LinkedIn" width="22px" src="https://github.com/shahirk48/shahirk48/blob/master/raw/images/icons/linkedin.png" />][linkedin]
+[<img align="left" alt="Instagram" width="22px" src="https://github.com/shahirk48/shahirk48/blob/master/raw/images/icons/instagram.png" />][instagram]
+[<img align="left" alt="coedepen" width="22px" src="https://github.com/shahirk48/shahirk48/blob/master/raw/images/icons/codepen.png" />][codepen]
+[<img align="left" alt="gmail" width="22px" src="https://github.com/shahirk48/shahirk48/blob/master/raw/images/icons/gmail.png" />][gmail]
+[<img align="left" alt="behance" width="22px" src="https://github.com/shahirk48/shahirk48/blob/master/raw/images/icons/behance.png" />][behance]
 
 <br />
 
