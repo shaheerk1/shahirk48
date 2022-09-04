@@ -46,6 +46,9 @@
 [youtube]: https://www.youtube.com/channel/UCZRSLRiYX0hQRrIRfwU2sDg
 [instagram]: https://instagram.com/codingcage
 [linkedin]: https://www.linkedin.com/in/shaheer-khan-02907315a
+[codepen]: https://linktr.ee/shahirk
+[gmail]: https://twitter.com/shaheer06175431
+[behance]: https://www.youtube.com/channel/UCZRSLRiYX0hQRrIRfwU2sDg
 [webdevplaylist]: https://linktr.ee/shahirk
 [jsplaylist]: https://linktr.ee/shahirk
 [cssplaylist]: https://linktr.ee/shahirk
