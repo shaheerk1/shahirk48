@@ -1,6 +1,6 @@
 ### Hi there, I'm Shaheer Khan 
 
-## I'm a Developer, and Student!
+## I'm a Developer, and Student
 
 <br />
 
