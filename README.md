@@ -1,4 +1,4 @@
-### Hi there, I'm Shahir Khan 
+### Hi there, I'm Shaheer Khan 
 
 ## I'm a Developer, and Student!
 
@@ -6,12 +6,10 @@
 <br />
 
 - 👯 I’m looking to collaborate with other Developers.
-- 🥅 Goals : Mastering the MERN stack
-- ⚡ Interested in : Designing & Digital Marketting
 
 ### Connect with me:
 
-[<img align="left" alt="https://linktr.ee/shahirk" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="https://linktr.ee/shahirk" width="22px" src="https://github.com/shahirk48/shahirk48/blob/master/raw/images/icons/internet.png" />][website]
 [<img align="left" alt="Shahir | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="Shahirk | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Shahirk | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
