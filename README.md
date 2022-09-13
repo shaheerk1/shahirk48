@@ -2,7 +2,7 @@
 
 ## I'm a Developer, and Student
 
-👯 open for collaboration .
+👯 open for collaboration
 
 ### Connect with me:
 
