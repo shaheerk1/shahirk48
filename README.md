@@ -2,8 +2,6 @@
 
 ## I'm a Developer, and Student
 
-
-
 👯 open for collaboration .
 
 ### Connect with me:
