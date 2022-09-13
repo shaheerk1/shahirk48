@@ -2,9 +2,9 @@
 
 ## I'm a Developer, and Student
 
-<br />
 
-👯 I’m looking to collaborate with other Developers.
+
+👯 open for collaboration .
 
 ### Connect with me:
 
